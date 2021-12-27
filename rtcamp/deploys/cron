@@ -1,0 +1,3 @@
+curl -s -X POST \
+  'https://rtcampkrishnanvijay173.herokuapp.com/comic_mailer.php' \
+  --form 'secret=""'
